@@ -1,3 +1,4 @@
+![logo](https://github.com/SHARMA-1729/SHARMA-1729/blob/main/AI.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Saurav Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding gif" width="400" src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"
